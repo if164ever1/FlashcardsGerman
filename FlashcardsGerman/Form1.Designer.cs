@@ -58,7 +58,7 @@
             this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Location = new System.Drawing.Point(12, 35);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(273, 387);
+            this.groupBox1.Size = new System.Drawing.Size(273, 271);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             // 
@@ -128,20 +128,20 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(7, 40);
+            this.label6.Location = new System.Drawing.Point(67, 109);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(35, 13);
+            this.label6.Size = new System.Drawing.Size(41, 13);
             this.label6.TabIndex = 1;
-            this.label6.Text = "label6";
+            this.label6.Text = "IMAGE";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(10, 326);
+            this.label7.Location = new System.Drawing.Point(44, 403);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(35, 13);
+            this.label7.Size = new System.Drawing.Size(83, 13);
             this.label7.TabIndex = 2;
-            this.label7.Text = "label7";
+            this.label7.Text = "TRANSLATION";
             // 
             // groupBox3
             // 
